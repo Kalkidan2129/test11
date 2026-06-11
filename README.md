@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My work focuses on creating clear, interactive dashboards and reports that support data-driven decision-making, particularly within retail environments. I am proficient in leveraging business intelligence techniques to analyze trends and performance, enabling stakeholders to understand and respond to market dynamics effectively.
+I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My experience includes creating interactive dashboards and reports that support decision-making by clearly visualizing trends and performance metrics. I focus on leveraging data analytics and business intelligence to drive understanding and improvements in retail environments.
 
 ---
 
@@ -32,11 +32,15 @@ I am a data analyst skilled in transforming raw sales data into actionable busin
 
 ## Walmart Store Sales
 
-Developed a comprehensive Power BI dashboard analyzing year-over-year sales across 45 Walmart stores during 2010-2012. The project highlights sales trends amid post-recession recovery, providing actionable retail insights.
+Analyzed year-over-year sales data from 45 Walmart stores across the US using Power BI. Developed an interactive dashboard to visualize sales trends during the post-recession period from 2010 to 2012.
 
-**Tools:** Power BI Desktop • DAX (Data Analysis Expressions) • Excel • Power Query Editor • CSV Data Files
+**Tools**
 
-**Skills:** Data modeling and relationships • DAX measure creation • Data transformation and cleaning • Dashboard design and visualization • Conditional column creation
+<code>Power BI Desktop</code> <code>DAX (Data Analysis Expressions)</code> <code>Excel (for initial data handling)</code> <code>Power Query Editor</code> <code>CSV data files</code>
+
+**Skills**
+
+<code>Data import and transformation</code> <code>Data modeling and relationship management</code> <code>DAX formula creation</code> <code>Dashboard design and visualization</code> <code>Time series analysis</code>
 
 <br><br>
 
