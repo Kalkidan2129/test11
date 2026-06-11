@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-This project involved creating a detailed Power BI dashboard to analyze sales data from 45 Walmart stores across the US between February 2010 and October 2012. The analysis focused on understanding sales performance and trends during the recovery phase following the 2008 recession. Key data modeling, DAX measures, and visualizations were developed to provide actionable insights.
+This project involved creating an interactive Power BI dashboard to assess sales performance across multiple Walmart stores over a three-year period. It included data import, transformation, relationship modeling, and DAX measure creation to provide actionable insights on sales trends and external factors like holidays and unemployment rates. The analysis helped understand the impact of economic conditions on retail sales during the early 2010s.
 
 ---
 
 ## Business Problem
 
-Walmart stores, like many discount retailers, faced fluctuating sales during the recovery period after the 2008 recession. Understanding year-over-year sales trends was critical to identify factors impacting store performance and to support strategic decision-making. The challenge was to consolidate and analyze multi-year sales data to reveal patterns and influences on sales.
+Walmart stores, like many discount retailers, faced fluctuating sales in the aftermath of the 2008 recession, impacting revenue and operational planning. There was a need to analyze historical sales data to identify trends and factors influencing store performance to inform strategic decisions. Understanding these dynamics was critical for optimizing sales strategies and resource allocation.
 
 ---
 
 ## Objective
 
-- Import and model Walmart sales data in Power BI for accurate analysis.
-- Create calculated columns and DAX measures to evaluate sales trends and year-over-year performance.
-- Develop an interactive dashboard to visualize sales insights and support business decisions.
+- Import and clean Walmart sales data for analysis in Power BI
+- Create relationships and calculated measures to enable detailed sales insights
+- Develop a user-friendly dashboard to visualize year-over-year sales trends and external influences
 
 ---
 
@@ -25,28 +25,28 @@ Walmart stores, like many discount retailers, faced fluctuating sales during the
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Excel
 - Power Query Editor
-- CSV Data Files
+- Excel (for initial data handling)
+- Power BI Cloud (for deployment)
 
 ---
 
 ## Project Workflow
 
-- Import Walmart sales CSV data into Power BI Desktop.
-- Create calendar and refresh date tables using DAX.
-- Establish relationships between sales and calendar tables.
-- Add conditional columns for holiday and unemployment flags.
-- Develop DAX measures to calculate total sales, average sales, and year-over-year growth.
+- Import Walmart sales CSV data into Power BI Desktop
+- Create calendar and refresh date tables for time intelligence
+- Establish relationships between sales and calendar tables
+- Add conditional columns for holidays and unemployment rates
+- Develop DAX measures to calculate total sales, average sales, and year-over-year growth
 
 ---
 
 ## Key Insights
 
-- Sales across Walmart stores showed variability influenced by holiday periods and unemployment rates.
-- Year-over-year sales growth was impacted by the lingering effects of the 2008 recession.
-- Custom sorting and conditional columns enhanced the accuracy of time-based sales comparisons.
-- DAX measures enabled detailed tracking of monthly and weekly sales trends.
+- Sales trends showed variability influenced by economic recovery post-2008 recession
+- Holiday weeks and unemployment rates had measurable impacts on weekly sales
+- Certain stores outperformed others consistently, indicating location or operational advantages
+- Month-over-month and year-over-year sales comparisons revealed seasonal and economic patterns
 
 ---
 
@@ -58,9 +58,9 @@ Walmart stores, like many discount retailers, faced fluctuating sales during the
 
 ## Business Impact
 
-- Provided Walmart with actionable insights to understand sales fluctuations during economic recovery.
-- Enabled data-driven decision making through an interactive and visually intuitive dashboard.
-- Improved forecasting and strategic planning by highlighting key sales drivers and temporal patterns.
+- Enabled data-driven decision-making for sales strategy adjustments during economic fluctuations
+- Provided visibility into external factors affecting store performance to optimize marketing efforts
+- Improved forecasting accuracy by incorporating time intelligence and economic indicators
 
 ---
 

@@ -1,17 +1,17 @@
 # Hi, I'm kalkidan 👋
 
-## Power BI Developer
+## BI
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/SQL%20Server-00A6A6?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/SSMS-6A5ACD?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/Python-D83B01?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Machine%20Learning-025E8C?style=for-the-badge&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/SSMS-217346?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Python-00A6A6?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-6A5ACD?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Machine%20Learning-D83B01?style=for-the-badge&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/Forecasting-F2C811?style=for-the-badge&logoColor=white" alt="Forecasting">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI, SQL Server, and Excel. My work focuses on building dynamic dashboards and reports that support strategic decision-making across industries such as retail, healthcare, and transportation. I am passionate about leveraging business intelligence to drive data-driven solutions and enhance operational understanding.
+I am a data analyst skilled in transforming raw data into actionable insights using tools like Power BI, Excel, and SQL Server. My work focuses on building interactive dashboards and reports that support business intelligence and informed decision-making across industries such as retail, healthcare, and transportation. I excel at designing clear visualizations that enable strategic planning and operational improvements.
 
 ---
 
@@ -31,9 +31,9 @@ I am a data analyst skilled in transforming complex datasets into clear, actiona
 
 ## Walmart Store Sales
 
-Developed a comprehensive Power BI dashboard analyzing year-over-year sales across 45 Walmart stores from 2010 to 2012. This project highlights sales trends during the post-recession recovery period for discount retail stores.
+Developed a comprehensive Power BI dashboard analyzing year-over-year sales for 45 Walmart stores across the US from 2010 to 2012. The project highlights sales trends during the post-recession recovery period for discount retail stores.
 
-**Tools:** <code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
+ <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
 
 <br><br>
 
@@ -59,9 +59,9 @@ Developed a comprehensive Power BI dashboard analyzing year-over-year sales acro
 
 ## Power BI Dashboard with Healthcare Data
 
-Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server for strategic business insights. Created customizable visualizations and key metrics to enhance data-driven decision making.
+Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server to enable strategic business insights. Created customizable visualizations and key metrics to support data-driven decision-making.
 
-**Tools:** <code>Power BI Desktop</code> <code>SQL Server</code> <code>SQL Server Management Studio</code>
+ <code>Power BI Desktop</code> <code>SQL Server Management Studio</code> <code>SQL Server</code>
 
 <br><br>
 
@@ -89,7 +89,7 @@ Developed a dynamic Power BI dashboard integrating healthcare insurance data fro
 
 It's a bird! It's a plane! Ever wonder what was the cause of the Miracle on the Hudson? In this dashboard we look at what the effect of a well informed warned pilot vs. a uninformed warned pilot has in helping control damage cost, as well as keeping guests on their planes safe during flight.
 
-**Tools:** <code>Python</code> <code>Pandas</code> <code>Machine Learning</code>
+ <code>Python</code> <code>Pandas</code> <code>Machine Learning</code>
 
 <br><br>
 
@@ -106,4 +106,4 @@ It's a bird! It's a plane! Ever wonder what was the cause of the Miracle on the 
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>

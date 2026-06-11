@@ -3,29 +3,29 @@
 
 ## Project Summary
 
-This project involved building a comprehensive Power BI dashboard using healthcare insurance data sourced from SQL Server databases. The dashboard features customizable visualizations and calculated measures to provide actionable insights for strategic planning. The solution enables quick data discovery and supports business reporting needs.
+This project involved building a comprehensive Power BI dashboard using healthcare insurance data sourced from SQL Server databases. The dashboard features custom measures, slicers, and various visualization types to facilitate quick and meaningful insights for strategic planning. The solution emphasizes self-service BI capabilities to empower users with endless data discovery possibilities.
 
 ---
 
 ## Business Problem
 
-Healthcare insurance data is rapidly expanding, making it challenging to extract timely and meaningful insights for strategic business planning. Traditional reporting methods often lack flexibility and fail to provide interactive visualizations needed for effective decision making. There was a need for a self-service BI solution to streamline data analysis and visualization.
+Healthcare insurance data volumes are rapidly increasing, making it challenging to extract timely and actionable insights for strategic business planning. Traditional reporting methods lack flexibility and speed, hindering effective decision-making. There is a need for a user-friendly, customizable dashboard to visualize key metrics and trends efficiently.
 
 ---
 
 ## Objective
 
-- Connect and load healthcare insurance data from SQL Server into Power BI.
-- Create meaningful metrics and measures using DAX for accurate data aggregation.
-- Design interactive and customizable visualizations to support strategic insights.
+- Connect and import healthcare insurance data from SQL Server into Power BI.
+- Create meaningful metrics and custom measures using DAX for accurate analysis.
+- Design interactive and visually appealing dashboards to support strategic decisions.
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- SQL Server
 - SQL Server Management Studio
+- SQL Server
 - DAX (Data Analysis Expressions)
 - Power BI Service
 - Microsoft Windows OS
@@ -34,20 +34,20 @@ Healthcare insurance data is rapidly expanding, making it challenging to extract
 
 ## Project Workflow
 
-- Connect to SQL Server and execute scripts to create data marts.
-- Import data tables into Power BI Desktop using Get Data feature.
-- Create custom measures with DAX to aggregate key metrics.
+- Connect to SQL Server and execute scripts to create the data mart.
+- Import relevant tables from SQL Server into Power BI Desktop.
+- Create custom measures and calculated fields using DAX.
 - Design and arrange visualizations including slicers, cards, pie charts, and bar charts.
-- Finalize dashboard layout with branding elements and color themes.
+- Finalize dashboard layout with branding and color themes for storytelling.
 
 ---
 
 ## Key Insights
 
-- Power BI enables integration of large healthcare datasets from SQL Server for comprehensive analysis.
-- Custom DAX measures allow precise aggregation such as distinct member counts.
-- Interactive visualizations like slicers and stacked bar charts enhance data exploration.
-- Dashboard design focused on storytelling improves communication of key business metrics.
+- Power BI supports diverse data sources enabling flexible data integration.
+- Custom DAX measures allow tailored aggregation and analysis of healthcare metrics.
+- Visual elements like slicers and cards enhance interactivity and focus on key KPIs.
+- Stacked bar and pie charts effectively display grouped and high-level data insights.
 
 ---
 
@@ -59,9 +59,9 @@ Healthcare insurance data is rapidly expanding, making it challenging to extract
 
 ## Business Impact
 
-- Accelerated delivery of actionable insights for healthcare insurance strategic planning.
-- Improved data accessibility and self-service reporting capabilities for business users.
-- Enhanced decision-making through visually compelling and customizable dashboards.
+- Accelerated insight generation for healthcare insurance strategic planning.
+- Improved data accessibility and self-service reporting capabilities.
+- Enhanced decision-making through clear, customizable visualizations.
 
 ---
 
