@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My experience includes creating interactive dashboards and reports that support decision-making by clearly visualizing trends and performance metrics. I focus on leveraging data analytics and business intelligence to drive understanding and improvements in retail environments.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My work focuses on building interactive dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am confident in leveraging data analytics to uncover trends and drive strategic improvements.
 
 ---
 
@@ -32,15 +32,11 @@ I am a data analyst skilled in transforming raw sales data into actionable busin
 
 ## Walmart Store Sales
 
-Analyzed year-over-year sales data from 45 Walmart stores across the US using Power BI. Developed an interactive dashboard to visualize sales trends during the post-recession period from 2010 to 2012.
+Analyzed year-over-year sales data from 45 Walmart stores across the US using Power BI. Developed a comprehensive dashboard to visualize sales trends during the post-recession period from 2010 to 2012.
 
-**Tools**
+**Tools:** <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
 
-<code>Power BI Desktop</code> <code>DAX (Data Analysis Expressions)</code> <code>Excel (for initial data handling)</code> <code>Power Query Editor</code> <code>CSV data files</code>
-
-**Skills**
-
-<code>Data import and transformation</code> <code>Data modeling and relationship management</code> <code>DAX formula creation</code> <code>Dashboard design and visualization</code> <code>Time series analysis</code>
+**Focus:** <code>Data import and transformation</code> <code>Data modeling and relationship creation</code>
 
 <br><br>
 
@@ -57,4 +53,4 @@ Analyzed year-over-year sales data from 45 Walmart stores across the US using Po
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
