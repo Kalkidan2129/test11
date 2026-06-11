@@ -1,6 +1,6 @@
 # Hi, I'm kalkidan 👋
 
-## Power BI Developer
+## BI Analyst
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My work focuses on building interactive dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am confident in leveraging data analytics to uncover trends and drive strategic improvements.
+I am a data analyst skilled in transforming raw sales data into clear, actionable insights using tools like Power BI and Excel. My work focuses on creating interactive dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am confident in my ability to analyze trends and present data in a way that drives strategic understanding and operational improvements.
 
 ---
 
@@ -28,15 +28,12 @@ I am a data analyst skilled in transforming raw sales data into actionable insig
 
 <td width="60%">
 
-### Retail Analytics Project
 
 ## Walmart Store Sales
 
-Analyzed year-over-year sales data from 45 Walmart stores across the US using Power BI. Developed a comprehensive dashboard to visualize sales trends during the post-recession period from 2010 to 2012.
+Analyzed year-over-year sales data from 45 Walmart stores across the US using Power BI. Developed an interactive dashboard to visualize sales trends during the post-recession period from 2010 to 2012.
 
-**Tools:** <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
-
-**Focus:** <code>Data import and transformation</code> <code>Data modeling and relationship creation</code>
+**Tools:** <code>Power BI Desktop</code> <code>Power Query Editor</code> <code>DAX</code>
 
 <br><br>
 
