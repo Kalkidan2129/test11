@@ -84,13 +84,13 @@
     "category": "Retail Analytics",
     "industry": "Retail",
     "generationSource": "ai",
-    "portfolioSummary": "Analyzed year-over-year sales data for 45 Walmart stores across the US from 2010 to 2012 using Power BI. Developed an interactive dashboard to visualize sales trends during the post-recession period.",
-    "summary": "This project involved creating a comprehensive Power BI dashboard to assess year-over-year sales performance of 45 Walmart stores between February 2010 and October 2012. The analysis focused on understanding sales trends during the recovery phase following the 2008 recession, incorporating data modeling, DAX measures, and conditional columns to enhance insights.",
-    "businessProblem": "Walmart stores, like many discount retailers, experienced fluctuating sales during the post-2008 recession period. The business needed to understand these sales trends across multiple stores to identify patterns and factors affecting performance. This insight was critical to inform strategic decisions for improving sales and operational efficiency.",
+    "portfolioSummary": "Developed a comprehensive Power BI dashboard analyzing year-over-year sales across 45 Walmart stores from 2010 to 2012. The project highlights sales trends during the post-recession period to inform strategic retail decisions.",
+    "summary": "This project involved creating a detailed sales dashboard for 45 Walmart stores in the US, covering the period from February 2010 to October 2012. Using Power BI, the analysis focused on year-over-year sales performance during the recovery phase following the 2008 recession. The dashboard integrates sales data with calendar and economic indicators to provide actionable insights.",
+    "businessProblem": "Walmart stores, like many discount retailers, experienced fluctuating sales during the post-2008 recession recovery period. Understanding these sales trends was critical to identifying factors affecting store performance and optimizing inventory and marketing strategies. The challenge was to analyze and visualize sales data effectively to support data-driven decision-making.",
     "objectives": [
-      "Import and model Walmart sales data in Power BI for analysis",
-      "Create calculated columns and DAX measures to track sales trends and key metrics",
-      "Develop an interactive dashboard to visualize year-over-year sales performance"
+      "Analyze year-over-year sales trends across multiple Walmart stores.",
+      "Integrate economic indicators such as unemployment rates and holiday periods into sales analysis.",
+      "Develop an interactive Power BI dashboard to visualize sales performance and support business insights."
     ],
     "tools": [
       "Power BI Desktop",
@@ -101,31 +101,31 @@
     ],
     "skills": [
       "Data Import and Transformation",
-      "Data Modeling and Relationships",
-      "DAX Formula Creation",
-      "Dashboard Design and Visualization",
+      "DAX Measure Creation",
+      "Data Modeling and Relationship Management",
       "Conditional Column Creation",
-      "Time Intelligence Analysis",
-      "Sorting and Data Organization",
+      "Custom Sorting in Power BI",
+      "Dashboard Design and Visualization",
+      "Time Series Analysis",
       "Business Data Interpretation"
     ],
     "workflow": [
-      "Import Walmart sales CSV data into Power BI Desktop",
-      "Create calendar and refresh date tables using DAX",
-      "Establish relationships between sales and calendar tables",
-      "Add conditional columns for holiday flags and unemployment rates",
-      "Develop DAX measures for total sales, average sales, and year-over-year growth"
+      "Import Walmart sales CSV data into Power BI Desktop.",
+      "Create and refresh calendar and date tables for time intelligence.",
+      "Establish relationships between sales data and calendar tables.",
+      "Develop conditional columns for holiday flags and unemployment rates.",
+      "Build DAX measures to calculate total sales, average sales, and year-over-year growth."
     ],
     "keyInsights": [
-      "Sales trends showed variability across stores during the post-recession recovery period",
-      "Holiday weeks and unemployment rates impacted weekly sales performance",
-      "Year-over-year sales growth was measurable using custom DAX calculations",
-      "Data modeling and relationships enabled effective time-based sales analysis"
+      "Sales across Walmart stores showed varied recovery patterns post-recession from 2010 to 2012.",
+      "Holiday weeks had a measurable impact on weekly sales performance.",
+      "Unemployment rates influenced sales trends, reflecting broader economic conditions.",
+      "Custom sorting and calendar integration improved the accuracy of time-based sales analysis."
     ],
     "businessImpact": [
-      "Provided Walmart with actionable insights on sales fluctuations during economic recovery",
-      "Enabled data-driven decision making through interactive visualizations",
-      "Improved understanding of external factors influencing store sales performance"
+      "Enabled Walmart to identify key periods and factors affecting store sales performance.",
+      "Provided actionable insights to optimize inventory and promotional strategies during holiday and economic fluctuations.",
+      "Improved data-driven decision-making through interactive and dynamic sales dashboards."
     ],
     "imageUrl": "https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif"
   }
