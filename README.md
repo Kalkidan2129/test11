@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/SQL%20Server-00A6A6?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/SSMS-6A5ACD?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/YouTube%20(tutorial%20resource)-D83B01?style=for-the-badge&logoColor=white" alt="YouTube (tutorial resource)"> <img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-025E8C?style=for-the-badge&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Power%20Query-025E8C?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/SSMS-FF7A00?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/T-SQL-00A6A6?style=for-the-badge&logoColor=white" alt="T-SQL"> <img src="https://img.shields.io/badge/Power%20BI%20Data%20Mart-6A5ACD?style=for-the-badge&logoColor=white" alt="Power BI Data Mart"> <img src="https://img.shields.io/badge/Python-D83B01?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Machine%20Learning-025E8C?style=for-the-badge&logoColor=white" alt="Machine Learning">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into actionable insights using tools such as Power BI, SQL Server, and Excel. My work focuses on building dynamic dashboards and reports that support strategic decision-making across industries including retail, healthcare, and transportation. I am adept at leveraging business intelligence techniques to deliver clear, data-driven narratives that inform and empower stakeholders.
+I am a data analyst skilled in transforming raw data into actionable insights using tools like Power BI, Excel, and SQL Server. My work focuses on creating dynamic dashboards and reports that support business intelligence and strategic decision-making across industries such as retail, healthcare, and transportation. I am adept at leveraging data visualization and reporting techniques to uncover trends, optimize performance, and communicate findings clearly to stakeholders.
 
 ---
 
@@ -20,20 +20,20 @@ I am a data analyst skilled in transforming complex datasets into actionable ins
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
 <img src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif" width="100%">
 
 </td>
 
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 
 ## Walmart Store Sales
 
-Developed a comprehensive Power BI dashboard analyzing year-over-year sales across 45 Walmart stores from 2010 to 2012. The project highlights sales trends during the post-recession recovery period to inform strategic retail decisions.
+Developed a comprehensive Power BI dashboard analyzing year-over-year sales for 45 Walmart stores across the US from 2010 to 2012. The project highlights sales trends during the post-recession recovery period to support data-driven retail decisions.
 
- <code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
+ <code>Power BI Desktop</code> <code>Power Query Editor</code> <code>Excel</code>
 
 <br>
 
@@ -48,20 +48,20 @@ Developed a comprehensive Power BI dashboard analyzing year-over-year sales acro
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
 <img src="http://app.colaberry.com/uploads/ProjectRequest/29962/Image_and_Logos.png" width="100%">
 
 </td>
 
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 
 ## Power BI Dashboard with Healthcare Data
 
-Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server to enable strategic business insights. Created customizable visualizations and metrics to support data-driven decision making.
+Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server for strategic business insights. Enabled customizable visualizations to support data-driven decision-making in healthcare insurance.
 
- <code>Power BI Desktop</code> <code>SQL Server</code> <code>SQL Server Management Studio</code>
+ <code>Power BI Desktop</code> <code>SQL Server Management Studio</code> <code>T-SQL</code>
 
 <br>
 
@@ -76,13 +76,13 @@ Developed a dynamic Power BI dashboard integrating healthcare insurance data fro
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
 <img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%">
 
 </td>
 
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 
 ## Air Traffic Control Awareness and Wildlife Strikes
