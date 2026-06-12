@@ -1,17 +1,17 @@
 # Hi, I'm kalkidan 👋
 
-## BI
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/SSMS-217346?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Python-00A6A6?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-6A5ACD?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Machine%20Learning-D83B01?style=for-the-badge&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/Forecasting-F2C811?style=for-the-badge&logoColor=white" alt="Forecasting">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/SQL%20Server-00A6A6?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/SSMS-6A5ACD?style=for-the-badge&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/T-SQL-D83B01?style=for-the-badge&logoColor=white" alt="T-SQL"> <img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-025E8C?style=for-the-badge&logoColor=white" alt="Pandas">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw data into actionable insights using tools like Power BI, Excel, and SQL Server. My work focuses on building interactive dashboards and reports that support business intelligence and informed decision-making across industries such as retail, healthcare, and transportation. I excel at designing clear visualizations that enable strategic planning and operational improvements.
+I am a data analyst skilled in transforming raw data into actionable insights using tools such as Power BI, SQL Server, and Excel. My work focuses on building dynamic dashboards and reports that support strategic decision-making across industries including retail, healthcare, and transportation. I am proficient in creating clear visualizations and metrics that enhance business intelligence and enable data-driven outcomes.
 
 ---
 
@@ -20,24 +20,28 @@ I am a data analyst skilled in transforming raw data into actionable insights us
 
 <table>
 <tr>
-<td width="40%">
+<td width="35%" valign="top">
 
-<img src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif" width="100%">
+<img
+  src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif"
+  width="100%"
+  style="border-radius:8px;"
+>
 
 </td>
 
-<td width="60%">
+<td width="65%" valign="top">
 
 
 ## Walmart Store Sales
 
-Developed a comprehensive Power BI dashboard analyzing year-over-year sales for 45 Walmart stores across the US from 2010 to 2012. The project highlights sales trends during the post-recession recovery period for discount retail stores.
+Analyzed year-over-year sales data for 45 Walmart stores across the US from 2010 to 2012 using Power BI. Developed an interactive dashboard to visualize sales trends during the post-recession period.
 
- <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
+ <code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
 
-<br><br>
+<br>
 
-<a href="./project-1/README.md">View Full Project →</a>
+<a href="./project-1/README.md"><b>View Full Project →</b></a>
 
 </td>
 </tr>
@@ -48,24 +52,28 @@ Developed a comprehensive Power BI dashboard analyzing year-over-year sales for 
 
 <table>
 <tr>
-<td width="40%">
+<td width="35%" valign="top">
 
-<img src="http://app.colaberry.com/uploads/ProjectRequest/29962/Image_and_Logos.png" width="100%">
+<img
+  src="http://app.colaberry.com/uploads/ProjectRequest/29962/Image_and_Logos.png"
+  width="100%"
+  style="border-radius:8px;"
+>
 
 </td>
 
-<td width="60%">
+<td width="65%" valign="top">
 
 
 ## Power BI Dashboard with Healthcare Data
 
-Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server to enable strategic business insights. Created customizable visualizations and key metrics to support data-driven decision-making.
+Developed a dynamic Power BI dashboard integrating healthcare insurance data from SQL Server for strategic business insights. Created customizable visualizations and key metrics to enable data-driven decision making.
 
- <code>Power BI Desktop</code> <code>SQL Server Management Studio</code> <code>SQL Server</code>
+ <code>Power BI Desktop</code> <code>SQL Server</code> <code>SQL Server Management Studio</code>
 
-<br><br>
+<br>
 
-<a href="./project-2/README.md">View Full Project →</a>
+<a href="./project-2/README.md"><b>View Full Project →</b></a>
 
 </td>
 </tr>
@@ -76,13 +84,17 @@ Developed a dynamic Power BI dashboard integrating healthcare insurance data fro
 
 <table>
 <tr>
-<td width="40%">
+<td width="35%" valign="top">
 
-<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%">
+<img
+  src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG"
+  width="100%"
+  style="border-radius:8px;"
+>
 
 </td>
 
-<td width="60%">
+<td width="65%" valign="top">
 
 
 ## Air Traffic Control Awareness and Wildlife Strikes
@@ -91,9 +103,9 @@ It's a bird! It's a plane! Ever wonder what was the cause of the Miracle on the 
 
  <code>Python</code> <code>Pandas</code> <code>Machine Learning</code>
 
-<br><br>
+<br>
 
-<a href="./project-3/README.md">View Full Project →</a>
+<a href="./project-3/README.md"><b>View Full Project →</b></a>
 
 </td>
 </tr>
